@@ -17,6 +17,8 @@ public class UsuariosController : ControllerBase
     }
 
     [HttpPost("registro")]
+    [ProducesResponseType(StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
     public IActionResult RegistrarUsuario([FromBody] Usuario usuario)
     {
         _usuarioRepositorio.RegistrarUsuario(usuario);
@@ -24,6 +26,8 @@ public class UsuariosController : ControllerBase
     }
 
     [HttpPost("login")]
+    [ProducesResponseType(StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
     public IActionResult IniciarSesion([FromBody] Credenciales credenciales)
     {
         var usuario = _usuarioRepositorio.IniciarSesion(credenciales.Email, credenciales.Contraseña);

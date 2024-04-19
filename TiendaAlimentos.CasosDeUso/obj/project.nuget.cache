@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LTYCTdlHzMzocwPsbPZsxan1d7SRh1wZei1mD3jLjcnbXkIGVKHfXbgVqjJVlG8Y0N7ZQi1uvHKlRKYOr20wDw==",
+  "dgSpecHash": "2VqHVwKUR7pOw0Pj1mVUFfRgqmQdfDkIpvu2lhWC43mh876uASHSpmZoOgN5tCB+KDO08qptQYW8FYPl83xo+Q==",
   "success": true,
   "projectFilePath": "D:\\Usuarios\\juan.marin\\Documents\\ProyectosRepaso\\TiendaAlimentos\\TiendaAlimentos.CasosDeUso\\TiendaAlimentos.CasosDeUso.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "D:\\Usuarios\\juan.marin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.18\\microsoft.entityframeworkcore.abstractions.7.0.18.nupkg.sha512",
     "D:\\Usuarios\\juan.marin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.18\\microsoft.entityframeworkcore.analyzers.7.0.18.nupkg.sha512",
     "D:\\Usuarios\\juan.marin\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.2\\microsoft.entityframeworkcore.relational.7.0.2.nupkg.sha512",
+    "D:\\Usuarios\\juan.marin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "D:\\Usuarios\\juan.marin\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "D:\\Usuarios\\juan.marin\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "D:\\Usuarios\\juan.marin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
@@ -17,9 +18,14 @@
     "D:\\Usuarios\\juan.marin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "D:\\Usuarios\\juan.marin\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "D:\\Usuarios\\juan.marin\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "D:\\Usuarios\\juan.marin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "D:\\Usuarios\\juan.marin\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
     "D:\\Usuarios\\juan.marin\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\7.0.0\\pomelo.entityframeworkcore.mysql.7.0.0.nupkg.sha512",
     "D:\\Usuarios\\juan.marin\\.nuget\\packages\\pomelo.entityframeworkcore.mysql.json.microsoft\\7.0.0\\pomelo.entityframeworkcore.mysql.json.microsoft.7.0.0.nupkg.sha512",
+    "D:\\Usuarios\\juan.marin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "D:\\Usuarios\\juan.marin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "D:\\Usuarios\\juan.marin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "D:\\Usuarios\\juan.marin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "D:\\Usuarios\\juan.marin\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "D:\\Usuarios\\juan.marin\\.nuget\\packages\\system.text.json\\7.0.1\\system.text.json.7.0.1.nupkg.sha512"
   ],

@@ -17,6 +17,8 @@ public class CarritoComprasController : ControllerBase
     }
 
     [HttpPost("agregar")]
+    [ProducesResponseType(StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
     public IActionResult AgregarProductoAlCarrito([FromBody] ProductoCarritoDTO productoDTO)
     {
         var producto = new Producto { ID = productoDTO.Id, Nombre = productoDTO.Nombre, Precio = productoDTO.Precio };
@@ -25,6 +27,8 @@ public class CarritoComprasController : ControllerBase
     }
 
     [HttpDelete("eliminar/{productoId}")]
+    [ProducesResponseType(StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
     public IActionResult EliminarProductoDelCarrito(int productoId)
     {
         _carritoCompras.EliminarProducto(productoId);

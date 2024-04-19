@@ -15,6 +15,8 @@ public class ProductosController : ControllerBase
     }
 
     [HttpGet]
+    [ProducesResponseType(StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
     public IActionResult ObtenerProductosDisponibles()
     {
         var productos = _productoRepositorio.ObtenerProductosDisponibles();

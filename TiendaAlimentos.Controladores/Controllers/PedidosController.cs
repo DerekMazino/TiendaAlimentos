@@ -16,6 +16,8 @@ public class PedidosController : ControllerBase
     }
 
     [HttpPost]
+    [ProducesResponseType(StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
     public IActionResult RealizarPedido(int usuarioId, [FromBody] List<Producto> productos)
     {
         _pedidoRepositorio.CrearPedido(usuarioId, productos);
@@ -23,6 +25,8 @@ public class PedidosController : ControllerBase
     }
 
     [HttpGet("{usuarioId}/historial")]
+    [ProducesResponseType(StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status400BadRequest)]
     public IActionResult ObtenerHistorialPedidos(int usuarioId)
     {
         var pedidos = _pedidoRepositorio.ObtenerHistorialPedidos(usuarioId);

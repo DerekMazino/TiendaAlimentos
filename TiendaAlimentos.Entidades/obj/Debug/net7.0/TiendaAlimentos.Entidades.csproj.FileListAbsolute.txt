@@ -1,0 +1,12 @@
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Entidades\bin\Debug\net7.0\TiendaAlimentos.Entidades.deps.json
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Entidades\bin\Debug\net7.0\TiendaAlimentos.Entidades.dll
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Entidades\bin\Debug\net7.0\TiendaAlimentos.Entidades.pdb
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Entidades\obj\Debug\net7.0\TiendaAlimentos.Entidades.csproj.AssemblyReference.cache
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Entidades\obj\Debug\net7.0\TiendaAlimentos.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Entidades\obj\Debug\net7.0\TiendaAlimentos.Entidades.AssemblyInfoInputs.cache
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Entidades\obj\Debug\net7.0\TiendaAlimentos.Entidades.AssemblyInfo.cs
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Entidades\obj\Debug\net7.0\TiendaAlimentos.Entidades.csproj.CoreCompileInputs.cache
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Entidades\obj\Debug\net7.0\TiendaAlimentos.Entidades.dll
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Entidades\obj\Debug\net7.0\refint\TiendaAlimentos.Entidades.dll
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Entidades\obj\Debug\net7.0\TiendaAlimentos.Entidades.pdb
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Entidades\obj\Debug\net7.0\ref\TiendaAlimentos.Entidades.dll

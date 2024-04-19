@@ -1,0 +1,16 @@
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\bin\Debug\net7.0\TiendaAlimentos.Adaptadores.deps.json
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\bin\Debug\net7.0\TiendaAlimentos.Adaptadores.dll
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\bin\Debug\net7.0\TiendaAlimentos.Adaptadores.pdb
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\bin\Debug\net7.0\TiendaAlimentos.Entidades.dll
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\bin\Debug\net7.0\TiendaAlimentos.Entidades.pdb
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\obj\Debug\net7.0\TiendaAlimentos.Adaptadores.csproj.AssemblyReference.cache
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\obj\Debug\net7.0\TiendaAlimentos.Adaptadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\obj\Debug\net7.0\TiendaAlimentos.Adaptadores.AssemblyInfoInputs.cache
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\obj\Debug\net7.0\TiendaAlimentos.Adaptadores.AssemblyInfo.cs
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\obj\Debug\net7.0\TiendaAlimentos.Adaptadores.csproj.CoreCompileInputs.cache
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\obj\Debug\net7.0\EFCoreMySqlJsonMicrosoft.cs
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\obj\Debug\net7.0\TiendaAlimentos.Adaptadores.csproj.CopyComplete
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\obj\Debug\net7.0\TiendaAlimentos.Adaptadores.dll
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\obj\Debug\net7.0\refint\TiendaAlimentos.Adaptadores.dll
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\obj\Debug\net7.0\TiendaAlimentos.Adaptadores.pdb
+D:\Usuarios\juan.marin\Documents\ProyectosRepaso\TiendaAlimentos\TiendaAlimentos.Adaptadores\obj\Debug\net7.0\ref\TiendaAlimentos.Adaptadores.dll

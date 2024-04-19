@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "T3cbypHSLGLd7vNswjB5FP0LfFEdr7rQLsi86I7DlmDAe10ctdUD0ranWuTB1zuJw2hFkqJrnOzUa0OaNPB9rQ==",
+  "dgSpecHash": "e5uEu6Z9+4OQbRsKzf/L3wMAITvbl03E2PBfss+X5W/uBjk/SjUJDG7zhMcHfC6LPbN3OgYLyBdWhMLJOtNbJg==",
   "success": true,
   "projectFilePath": "D:\\Usuarios\\juan.marin\\Documents\\ProyectosRepaso\\TiendaAlimentos\\TiendaAlimentos.Entidades\\TiendaAlimentos.Entidades.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "D:\\Usuarios\\juan.marin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "D:\\Usuarios\\juan.marin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "D:\\Usuarios\\juan.marin\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "D:\\Usuarios\\juan.marin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "D:\\Usuarios\\juan.marin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "D:\\Usuarios\\juan.marin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

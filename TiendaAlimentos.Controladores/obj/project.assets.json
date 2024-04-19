@@ -439,6 +439,7 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "7.0.18",
           "Pomelo.EntityFrameworkCore.MySql.Json.Microsoft": "7.0.0",
+          "Swashbuckle.AspNetCore": "6.5.0",
           "TiendaAlimentos.Entidades": "1.0.0"
         },
         "compile": {
@@ -451,6 +452,9 @@
       "TiendaAlimentos.Entidades/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Swashbuckle.AspNetCore": "6.5.0"
+        },
         "compile": {
           "bin/placeholder/TiendaAlimentos.Entidades.dll": {}
         },
