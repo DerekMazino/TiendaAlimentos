@@ -16,5 +16,5 @@ public class ApplicationDbContext : DbContext
 
     public DbSet<Usuario> Usuarios { get; set; }
     public DbSet<Producto> Productos { get; set; }
-    // Define otros DbSet para tus entidades aquí
+    public DbSet<Pedido> Pedidos { get; set; }
 }

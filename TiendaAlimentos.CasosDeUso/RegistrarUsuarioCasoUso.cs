@@ -1,4 +1,4 @@
-﻿using TiendaAlimentos.Adaptadores;
+﻿using TiendaAlimentos.Adaptadores.Interfaces;
 using TiendaAlimentos.Entidades;
 
 namespace TiendaAlimentos.CasosDeUso;

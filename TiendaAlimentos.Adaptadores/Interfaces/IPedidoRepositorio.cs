@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using TiendaAlimentos.Entidades;
 
-namespace TiendaAlimentos.Adaptadores;
+namespace TiendaAlimentos.Adaptadores.Interfaces;
 
 public interface IPedidoRepositorio
 {

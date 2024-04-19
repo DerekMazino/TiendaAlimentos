@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TiendaAlimentos.Adaptadores;
+using TiendaAlimentos.Adaptadores.Interfaces;
 using TiendaAlimentos.Entidades;
 
 namespace TiendaAlimentos.CasosDeUso;
