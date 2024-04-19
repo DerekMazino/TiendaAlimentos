@@ -1,28 +1,89 @@
 {
   "format": 1,
   "restore": {
-    "/Users/camilomarin/Documents/Proyectos/TiendaAlimentos/TiendaAlimentos.Adaptadores/TiendaAlimentos.Adaptadores.csproj": {}
+    "D:\\Usuarios\\juan.marin\\Documents\\ProyectosRepaso\\TiendaAlimentos\\TiendaAlimentos.Adaptadores\\TiendaAlimentos.Adaptadores.csproj": {}
   },
   "projects": {
-    "/Users/camilomarin/Documents/Proyectos/TiendaAlimentos/TiendaAlimentos.Adaptadores/TiendaAlimentos.Adaptadores.csproj": {
+    "D:\\Usuarios\\juan.marin\\Documents\\ProyectosRepaso\\TiendaAlimentos\\TiendaAlimentos.Adaptadores\\TiendaAlimentos.Adaptadores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/camilomarin/Documents/Proyectos/TiendaAlimentos/TiendaAlimentos.Adaptadores/TiendaAlimentos.Adaptadores.csproj",
+        "projectUniqueName": "D:\\Usuarios\\juan.marin\\Documents\\ProyectosRepaso\\TiendaAlimentos\\TiendaAlimentos.Adaptadores\\TiendaAlimentos.Adaptadores.csproj",
         "projectName": "TiendaAlimentos.Adaptadores",
-        "projectPath": "/Users/camilomarin/Documents/Proyectos/TiendaAlimentos/TiendaAlimentos.Adaptadores/TiendaAlimentos.Adaptadores.csproj",
-        "packagesPath": "/Users/camilomarin/.nuget/packages/",
-        "outputPath": "/Users/camilomarin/Documents/Proyectos/TiendaAlimentos/TiendaAlimentos.Adaptadores/obj/",
+        "projectPath": "D:\\Usuarios\\juan.marin\\Documents\\ProyectosRepaso\\TiendaAlimentos\\TiendaAlimentos.Adaptadores\\TiendaAlimentos.Adaptadores.csproj",
+        "packagesPath": "D:\\Usuarios\\juan.marin\\.nuget\\packages\\",
+        "outputPath": "D:\\Usuarios\\juan.marin\\Documents\\ProyectosRepaso\\TiendaAlimentos\\TiendaAlimentos.Adaptadores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/camilomarin/.nuget/NuGet/NuGet.Config"
+          "D:\\Usuarios\\juan.marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://gitlab.com/api/v4/projects/16960327/packages/nuget/index.json": {}
+          "https://nugetgallery.actsis.com/api/v2": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Usuarios\\juan.marin\\Documents\\ProyectosRepaso\\TiendaAlimentos\\TiendaAlimentos.Entidades\\TiendaAlimentos.Entidades.csproj": {
+                "projectPath": "D:\\Usuarios\\juan.marin\\Documents\\ProyectosRepaso\\TiendaAlimentos\\TiendaAlimentos.Entidades\\TiendaAlimentos.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Usuarios\\juan.marin\\Documents\\ProyectosRepaso\\TiendaAlimentos\\TiendaAlimentos.Entidades\\TiendaAlimentos.Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Usuarios\\juan.marin\\Documents\\ProyectosRepaso\\TiendaAlimentos\\TiendaAlimentos.Entidades\\TiendaAlimentos.Entidades.csproj",
+        "projectName": "TiendaAlimentos.Entidades",
+        "projectPath": "D:\\Usuarios\\juan.marin\\Documents\\ProyectosRepaso\\TiendaAlimentos\\TiendaAlimentos.Entidades\\TiendaAlimentos.Entidades.csproj",
+        "packagesPath": "D:\\Usuarios\\juan.marin\\.nuget\\packages\\",
+        "outputPath": "D:\\Usuarios\\juan.marin\\Documents\\ProyectosRepaso\\TiendaAlimentos\\TiendaAlimentos.Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Usuarios\\juan.marin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nugetgallery.actsis.com/api/v2": {}
         },
         "frameworks": {
           "net7.0": {
@@ -55,7 +116,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
