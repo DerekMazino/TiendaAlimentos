@@ -3,19 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaAlimentos.Entidades", "TiendaAlimentos.Entidades\TiendaAlimentos.Entidades.csproj", "{23312F70-6F7A-4DFA-BFD0-C350D9F26F90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaAlimentos.Entidades", "TiendaAlimentos.Entidades\TiendaAlimentos.Entidades.csproj", "{23312F70-6F7A-4DFA-BFD0-C350D9F26F90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaAlimentos.CasosDeUso", "TiendaAlimentos.CasosDeUso\TiendaAlimentos.CasosDeUso.csproj", "{71F15B15-C914-4673-9E78-9627F2EBF149}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaAlimentos.CasosDeUso", "TiendaAlimentos.CasosDeUso\TiendaAlimentos.CasosDeUso.csproj", "{71F15B15-C914-4673-9E78-9627F2EBF149}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaAlimentos.Adaptadores", "TiendaAlimentos.Adaptadores\TiendaAlimentos.Adaptadores.csproj", "{254D4C38-E40D-4355-8403-1C2592216B17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiendaAlimentos.Adaptadores", "TiendaAlimentos.Adaptadores\TiendaAlimentos.Adaptadores.csproj", "{254D4C38-E40D-4355-8403-1C2592216B17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiendaAlimentos.Controladores", "TiendaAlimentos.Controladores\TiendaAlimentos.Controladores.csproj", "{01C1BCBA-D9B3-483A-B1BB-17FB294DD67C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{23312F70-6F7A-4DFA-BFD0-C350D9F26F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +29,12 @@ Global
 		{254D4C38-E40D-4355-8403-1C2592216B17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{254D4C38-E40D-4355-8403-1C2592216B17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{254D4C38-E40D-4355-8403-1C2592216B17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C1BCBA-D9B3-483A-B1BB-17FB294DD67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C1BCBA-D9B3-483A-B1BB-17FB294DD67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C1BCBA-D9B3-483A-B1BB-17FB294DD67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C1BCBA-D9B3-483A-B1BB-17FB294DD67C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

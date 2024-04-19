@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\TiendaAlimentos.Adaptadores\TiendaAlimentos.Adaptadores.csproj" />
     <ProjectReference Include="..\TiendaAlimentos.Entidades\TiendaAlimentos.Entidades.csproj" />
   </ItemGroup>
 
